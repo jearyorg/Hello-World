@@ -1,4 +1,8 @@
-Hello-World
+
+Hello-World代码大全
 ===========
 
-This is my first code.
+更完整的请移步：http://www2.latech.edu/~acm/HelloWorld.html
+
+
+					just mean somethining.
